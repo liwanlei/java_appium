@@ -1,0 +1,59 @@
+2018-09-26 10:58:35 NewTest : 开始测试
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36 NewTest : 开始登录测试
+2018-09-26 10:58:36  : 打开url：http://www.aixuetang.com/ywxtStudent/tologin
+2018-09-26 10:58:36 NewTest : 开始登录测试
+2018-09-26 10:58:36  : 打开url：http://www.aixuetang.com/ywxtStudent/tologin
+2018-09-26 10:58:36 NewTest : 开始登录测试
+2018-09-26 10:58:36  : 打开url：http://www.aixuetang.com/ywxtStudent/tologin
+2018-09-26 10:58:36 NewTest : 开始登录测试
+2018-09-26 10:58:36  : 打开url：http://www.aixuetang.com/ywxtStudent/tologin
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36 NewTest : 开始注册测试
+2018-09-26 10:58:36 NewTest : 开始注册测试
+2018-09-26 10:58:36 NewTest : 开始注册测试
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36  : java.lang.NullPointerException
+2018-09-26 10:58:36 NewTest : 开始jd测试...输入用户名：15964636199
+2018-09-26 10:58:36 NewTest : 开始jd测试...输入用户名：15964636199
+2018-09-26 10:58:36 NewTest : 开始jd测试...输入用户名：15964636199
+2018-09-26 10:58:36 NewTest : 测试结束
+2018-09-26 11:43:47 NewTest : 开始测试
+2018-09-26 11:43:48  : java.lang.NullPointerException
+2018-09-26 11:43:48  : java.lang.NullPointerException
+2018-09-26 11:43:48  : java.lang.NullPointerException
+2018-09-26 11:43:48  : java.lang.NullPointerException
+2018-09-26 11:43:48 NewTest : 开始登录测试
+2018-09-26 11:43:48  : 打开url：http://www.aixuetang.com/ywxtStudent/tologin
+2018-09-26 11:43:58 NewTest : 开始断言
+2018-09-26 11:43:58 NewTest : 开始登录测试
+2018-09-26 11:43:58  : 打开url：http://www.aixuetang.com/ywxtStudent/tologin
+2018-09-26 11:43:59 NewTest : 开始断言
+2018-09-26 11:43:59 NewTest : 开始登录测试
+2018-09-26 11:43:59  : 打开url：http://www.aixuetang.com/ywxtStudent/tologin
+2018-09-26 11:43:59 NewTest : 开始断言
+2018-09-26 11:43:59 NewTest : 开始登录测试
+2018-09-26 11:43:59  : 打开url：http://www.aixuetang.com/ywxtStudent/tologin
+2018-09-26 11:44:00 NewTest : 开始断言
+2018-09-26 11:44:00  : java.lang.NullPointerException
+2018-09-26 11:44:00  : java.lang.NullPointerException
+2018-09-26 11:44:00  : java.lang.NullPointerException
+2018-09-26 11:44:00 NewTest : 开始注册测试
+2018-09-26 11:44:02 NewTest : 开始注册测试
+2018-09-26 11:44:03 NewTest : 开始注册测试
+2018-09-26 11:44:04  : java.lang.NullPointerException
+2018-09-26 11:44:04  : java.lang.NullPointerException
+2018-09-26 11:44:04  : java.lang.NullPointerException
+2018-09-26 11:44:04 NewTest : 开始jd测试...输入用户名：15964636199
+2018-09-26 11:44:17 NewTest : 断言
+2018-09-26 11:44:17 NewTest : 开始jd测试...输入用户名：15964636199
+2018-09-26 11:44:20 NewTest : 断言
+2018-09-26 11:44:20 NewTest : 开始jd测试...输入用户名：15964636199
+2018-09-26 11:44:22 NewTest : 断言
+2018-09-26 11:44:22 NewTest : 测试结束
